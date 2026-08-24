@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T00:09:00Z",
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 136602
+                "stars": 136620
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-24T00:09:00Z",
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 136602
+                "stars": 136620
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 798049841,
                 "language": "Dart",
-                "last_commit": "2026-08-23T06:46:01Z",
+                "last_commit": "2026-08-24T14:46:47Z",
                 "owner": "Predidit",
                 "repo": "Kazumi",
-                "stars": 29173
+                "stars": 29180
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-21T01:03:29Z",
                 "owner": "Guovin",
                 "repo": "iptv-api",
-                "stars": 24974
+                "stars": 24976
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 519845229,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T13:44:03Z",
+                "last_commit": "2026-08-24T17:50:50Z",
                 "owner": "open-ani",
                 "repo": "animeko",
-                "stars": 19742
+                "stars": 19745
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-19T02:01:07Z",
                 "owner": "fish2018",
                 "repo": "pansou",
-                "stars": 14341
+                "stars": 14345
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-04-20T03:28:29Z",
                 "owner": "jiangrui1994",
                 "repo": "CloudSaver",
-                "stars": 9228
+                "stars": 9230
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-07T04:27:17Z",
                 "owner": "FongMi",
                 "repo": "TV",
-                "stars": 9201
+                "stars": 9204
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-21T07:12:03Z",
                 "owner": "mtvpls",
                 "repo": "MoonTVPlus",
-                "stars": 3055
+                "stars": 3056
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-07-09T11:44:49Z",
                 "owner": "Cp0204",
                 "repo": "quark-auto-save",
-                "stars": 3007
+                "stars": 3006
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-23T11:01:17Z",
                 "owner": "fish2018",
                 "repo": "webhtv",
-                "stars": 1253
+                "stars": 1252
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-21T09:16:20Z",
                 "owner": "ingriddaleusag-dotcom",
                 "repo": "PickTV",
-                "stars": 974
+                "stars": 973
               }
             },
             {
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-24T02:17:07Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 6197
+            "stars": 6207
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-08-24T02:17:07Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 6197
+            "stars": 6207
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-24T02:17:07Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 6197
+            "stars": 6207
           }
         }
       ],
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:28.344Z",
+    "last_updated": "2026-08-24T18:04:59.144Z",
     "original_repository": "laoma2053/awesome-zhuiju-free",
     "original_repository_id": 1260652867,
     "original_repository_sha": "f140b08f400cef112d47221f0c4e7629c872b28f",
