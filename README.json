@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T00:09:20Z",
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 136647
+                "stars": 136689
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-25T00:09:20Z",
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 136647
+                "stars": 136689
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-25T04:15:05Z",
                 "owner": "Predidit",
                 "repo": "Kazumi",
-                "stars": 29191
+                "stars": 29213
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 752615721,
                 "language": "Python",
-                "last_commit": "2026-08-21T01:03:29Z",
+                "last_commit": "2026-08-25T08:55:57Z",
                 "owner": "Guovin",
                 "repo": "iptv-api",
-                "stars": 24974
+                "stars": 24988
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 519845229,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T03:11:08Z",
+                "last_commit": "2026-08-25T16:43:41Z",
                 "owner": "open-ani",
                 "repo": "animeko",
-                "stars": 19752
+                "stars": 19763
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-19T02:01:07Z",
                 "owner": "fish2018",
                 "repo": "pansou",
-                "stars": 14348
+                "stars": 14352
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-04-20T03:28:29Z",
                 "owner": "jiangrui1994",
                 "repo": "CloudSaver",
-                "stars": 9232
+                "stars": 9235
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-07T04:27:17Z",
                 "owner": "FongMi",
                 "repo": "TV",
-                "stars": 9208
+                "stars": 9216
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-06-25T14:11:54Z",
                 "owner": "Hiram-Wong",
                 "repo": "zyfun",
-                "stars": 8789
+                "stars": 8792
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-21T07:12:03Z",
                 "owner": "mtvpls",
                 "repo": "MoonTVPlus",
-                "stars": 3057
+                "stars": 3061
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-07-09T11:44:49Z",
                 "owner": "Cp0204",
                 "repo": "quark-auto-save",
-                "stars": 3008
+                "stars": 3010
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-05-25T10:26:26Z",
                 "owner": "MoonTechLab",
                 "repo": "Selene",
-                "stars": 2461
+                "stars": 2464
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-23T11:01:17Z",
                 "owner": "fish2018",
                 "repo": "webhtv",
-                "stars": 1257
+                "stars": 1260
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-21T09:16:20Z",
                 "owner": "ingriddaleusag-dotcom",
                 "repo": "PickTV",
-                "stars": 974
+                "stars": 977
               }
             },
             {
@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 1246496175,
                 "language": "Java",
-                "last_commit": "2026-08-24T12:31:57Z",
+                "last_commit": "2026-08-25T13:11:16Z",
                 "owner": "Silent1566",
                 "repo": "webhtv",
                 "stars": 472
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-25T01:34:02Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 6221
+            "stars": 6274
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-08-25T01:34:02Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 6221
+            "stars": 6274
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-25T01:34:02Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 6221
+            "stars": 6274
           }
         }
       ],
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:57.118Z",
+    "last_updated": "2026-08-25T18:04:20.293Z",
     "original_repository": "laoma2053/awesome-zhuiju-free",
     "original_repository_id": 1260652867,
     "original_repository_sha": "c816e7f563d8653312040fe5b368839977e24bf9",
