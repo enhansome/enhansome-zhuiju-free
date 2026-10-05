@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "IPTV-org",
-              "description": "社区维护的公开 IPTV 频道集合 🌟⁠🌟⁠🌟⁠🌟 🟢⁠可⁠访问 2026‑10‑04",
+              "description": "社区维护的公开 IPTV 频道集合 🌟⁠🌟⁠🌟⁠🌟 🟢⁠可⁠访问 2026‑10‑05",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 157616880,
                 "language": "TypeScript",
                 "license": "Unlicense",
-                "last_commit": "2026-10-04T01:00:50Z",
-                "open_issues": 215,
+                "last_commit": "2026-10-05T17:56:33Z",
+                "open_issues": 252,
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 140321,
+                "stars": 140362,
                 "topics": [
                   "iptv",
                   "m3u",
@@ -42,7 +42,7 @@
             {
               "node_type": "item",
               "title": "iptv",
-              "description": "全球公开 IPTV 频道集合 139,698 2026-09-28",
+              "description": "全球公开 IPTV 频道集合 140,331 2026-10-05",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -51,11 +51,11 @@
                 "id": 157616880,
                 "language": "TypeScript",
                 "license": "Unlicense",
-                "last_commit": "2026-10-04T01:00:50Z",
-                "open_issues": 215,
+                "last_commit": "2026-10-05T17:56:33Z",
+                "open_issues": 252,
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 140321,
+                "stars": 140362,
                 "topics": [
                   "iptv",
                   "m3u",
@@ -69,7 +69,7 @@
             {
               "node_type": "item",
               "title": "Kazumi",
-              "description": "免费无广告的番剧采集与在线观看 30,361 2026-09-27",
+              "description": "免费无广告的番剧采集与在线观看 30,865 2026-10-04",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,10 +79,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-04T09:52:00Z",
-                "open_issues": 539,
+                "open_issues": 544,
                 "owner": "Predidit",
                 "repo": "Kazumi",
-                "stars": 30852,
+                "stars": 30981,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "iptv-api",
-              "description": "IPTV 直播源自动采集筛选更新平台 25,311 2026-09-20",
+              "description": "IPTV 直播源自动采集筛选更新平台 25,407 2026-09-28",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -112,7 +112,7 @@
                 "open_issues": 2,
                 "owner": "Guovin",
                 "repo": "iptv-api",
-                "stars": 25406,
+                "stars": 25416,
                 "topics": [
                   "auto-update",
                   "awesome",
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "Animeko",
-              "description": "一站式弹幕追番平台 20,317 2026-09-28",
+              "description": "一站式弹幕追番平台 20,461 2026-10-05",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -150,11 +150,11 @@
                 "id": 519845229,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-04T18:18:42Z",
-                "open_issues": 550,
+                "last_commit": "2026-10-05T15:16:34Z",
+                "open_issues": 549,
                 "owner": "open-ani",
                 "repo": "animeko",
-                "stars": 20460,
+                "stars": 20502,
                 "topics": [
                   "android",
                   "ani",
@@ -182,7 +182,7 @@
             {
               "node_type": "item",
               "title": "pansou",
-              "description": "高性能网盘资源搜索 API 服务 14,719 2026-09-27",
+              "description": "高性能网盘资源搜索 API 服务 14,786 2026-09-27",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,10 +192,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-27T13:26:25Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "fish2018",
                 "repo": "pansou",
-                "stars": 14786,
+                "stars": 14796,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -203,7 +203,7 @@
             {
               "node_type": "item",
               "title": "FongMi TV",
-              "description": "基于 CatVod 的开源 Android 影音应用 9,557 2026-09-27",
+              "description": "基于 CatVod 的开源 Android 影音应用 9,676 2026-09-28",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,7 +216,7 @@
                 "open_issues": 3,
                 "owner": "FongMi",
                 "repo": "TV",
-                "stars": 9673,
+                "stars": 9697,
                 "topics": [
                   "ffmpeg",
                   "media3",
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "CloudSaver",
-              "description": "网盘资源搜索与转存工具 9,335 2026-04-20",
+              "description": "网盘资源搜索与转存工具 9,351 2026-04-20",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,7 +241,7 @@
                 "open_issues": 49,
                 "owner": "jiangrui1994",
                 "repo": "CloudSaver",
-                "stars": 9349,
+                "stars": 9354,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "zyfun",
-              "description": "跨平台桌面端视频资源播放器 8,936 2026-06-25",
+              "description": "跨平台桌面端视频资源播放器 8,971 2026-06-25",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,7 +262,7 @@
                 "open_issues": 30,
                 "owner": "Hiram-Wong",
                 "repo": "zyfun",
-                "stars": 8971,
+                "stars": 8974,
                 "topics": [
                   "electron",
                   "tdesign",
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Bangumi",
-              "description": "专门做 ACG 的类豆瓣追番客户端 5,979 2026-09-27",
+              "description": "专门做 ACG 的类豆瓣追番客户端 6,018 2026-10-02",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,7 +289,7 @@
                 "open_issues": 27,
                 "owner": "czy0729",
                 "repo": "Bangumi",
-                "stars": 6018,
+                "stars": 6020,
                 "topics": [
                   "android",
                   "android-app",
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "MoonTVPlus",
-              "description": "MoonTV 增强版影视聚合播放器 3,288 2026-09-25",
+              "description": "MoonTV 增强版影视聚合播放器 3,349 2026-09-28",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -318,11 +318,11 @@
                 "id": 1108469533,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T11:49:43Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-05T11:57:12Z",
+                "open_issues": 126,
                 "owner": "mtvpls",
                 "repo": "MoonTVPlus",
-                "stars": 3349,
+                "stars": 3360,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "quark-auto-save",
-              "description": "夸克网盘自动签到转存整理工具 3,050 2026-07-09",
+              "description": "夸克网盘自动签到转存整理工具 3,056 2026-07-09",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -340,7 +340,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-09T11:44:49Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "Cp0204",
                 "repo": "quark-auto-save",
                 "stars": 3056,
@@ -351,7 +351,7 @@
             {
               "node_type": "item",
               "title": "SeleneTV",
-              "description": "MoonTV v100/Helios 后端客户端 2,544 2026-05-25",
+              "description": "MoonTV v100/Helios 后端客户端 2,557 2026-05-25",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -364,7 +364,7 @@
                 "open_issues": 9,
                 "owner": "MoonTechLab",
                 "repo": "Selene",
-                "stars": 2557,
+                "stars": 2558,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -372,7 +372,7 @@
             {
               "node_type": "item",
               "title": "WebHomeTV",
-              "description": "基于 FongMi/CatVod 二开的 Android 影音应用 1,563 2026-09-24",
+              "description": "基于 FongMi/CatVod 二开的 Android 影音应用 1,632 2026-10-04",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
                 "open_issues": 112,
                 "owner": "webhtv",
                 "repo": "webhtv",
-                "stars": 1631,
+                "stars": 1641,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -393,7 +393,7 @@
             {
               "node_type": "item",
               "title": "WebHomeTV2",
-              "description": "基于 WebHomeTV 二开，支持 TMDB 海报 618 2026-09-27",
+              "description": "基于 WebHomeTV 二开，支持 TMDB 海报 656 2026-10-05",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -402,11 +402,11 @@
                 "id": 1246496175,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T16:10:07Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-05T12:49:27Z",
+                "open_issues": 0,
                 "owner": "Silent1566",
                 "repo": "webhtv",
-                "stars": 656,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -414,7 +414,7 @@
             {
               "node_type": "item",
               "title": "sky-tv",
-              "description": "现代化跨平台视频播放器空壳应用 113 2026-07-26",
+              "description": "现代化跨平台视频播放器空壳应用 119 2026-10-03",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:28:23.625Z",
+    "last_updated": "2026-10-05T23:22:03.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
@@ -458,11 +458,11 @@
       "id": 1260652867,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-04T15:26:11Z",
+      "last_commit": "2026-10-05T01:42:16Z",
       "open_issues": 19,
       "owner": "laoma2053",
       "repo": "awesome-zhuiju-free",
-      "stars": 11212,
+      "stars": 11304,
       "topics": [
         "awesome-list",
         "bt-search",
@@ -482,7 +482,7 @@
         "tvbox-config"
       ]
     },
-    "original_repository_sha": "7e6ba698e334af30041544cefe6fcbb04793b704",
+    "original_repository_sha": "4e9ffa9db0f7950f05fde1db05d3a3d2bf1c9cc2",
     "enhanced_repository": "enhansome/enhansome-zhuiju-free",
     "enhanced_repository_description": null,
     "title": "Awesome Zhuiju Free with stars"
