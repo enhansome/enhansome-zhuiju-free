@@ -272,7 +272,7 @@
 
 | 资源                                                                                                | 简介                |     推荐指数    |                                  状态                                  |                                        检测时间                                       |
 | ------------------------------------------------------------------------------------------------- | ----------------- | :---------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| [IPTV-org](https://github.com/iptv-org/iptv) ⭐ 140,389 \| 🐛 51 \| 🌐 TypeScript \| 📅 2026-10-06 | 社区维护的公开 IPTV 频道集合 | 🌟⁠🌟⁠🌟⁠🌟 | <!-- availability:iptv-org -->🟢⁠可⁠访问<!-- /availability:iptv-org --> | <!-- availability-date:iptv-org -->2026‑10‑06<!-- /availability-date:iptv-org --> |
+| [IPTV-org](https://github.com/iptv-org/iptv) ⭐ 140,412 \| 🐛 73 \| 🌐 TypeScript \| 📅 2026-10-06 | 社区维护的公开 IPTV 频道集合 | 🌟⁠🌟⁠🌟⁠🌟 | <!-- availability:iptv-org -->🟢⁠可⁠访问<!-- /availability:iptv-org --> | <!-- availability-date:iptv-org -->2026‑10‑06<!-- /availability-date:iptv-org --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
@@ -286,20 +286,20 @@
 
 | 资源                                                                                                         | 简介                                |  star数  |   仓库更新时间   |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------- | :-----: | :--------: |
-| [iptv](https://github.com/iptv-org/iptv) ⭐ 140,389 \| 🐛 51 \| 🌐 TypeScript \| 📅 2026-10-06              | 全球公开 IPTV 频道集合                    | 140,331 | 2026-10-05 |
-| [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 31,139 \| 🐛 546 \| 🌐 Dart \| 📅 2026-10-06                | 免费无广告的番剧采集与在线观看                   |  30,865 | 2026-10-04 |
-| [iptv-api](https://github.com/Guovin/iptv-api) ⭐ 25,423 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-28              | IPTV 直播源自动采集筛选更新平台                |  25,407 | 2026-09-28 |
-| [Animeko](https://github.com/open-ani/animeko) ⭐ 20,535 \| 🐛 549 \| 🌐 Kotlin \| 📅 2026-10-06            | 一站式弹幕追番平台                         |  20,461 | 2026-10-05 |
-| [pansou](https://github.com/fish2018/pansou) ⭐ 14,803 \| 🐛 8 \| 🌐 Go \| 📅 2026-09-27                    | 高性能网盘资源搜索 API 服务                  |  14,786 | 2026-09-27 |
-| [FongMi TV](https://github.com/FongMi/TV) ⭐ 9,706 \| 🐛 4 \| 🌐 Java \| 📅 2026-09-28                      | 基于 CatVod 的开源 Android 影音应用        |  9,676  | 2026-09-28 |
-| [CloudSaver](https://github.com/jiangrui1994/CloudSaver) ⭐ 9,358 \| 🐛 49 \| 🌐 Vue \| 📅 2026-04-20       | 网盘资源搜索与转存工具                       |  9,351  | 2026-04-20 |
-| [zyfun](https://github.com/Hiram-Wong/zyfun) ⭐ 8,977 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-06-25            | 跨平台桌面端视频资源播放器                     |  8,971  | 2026-06-25 |
-| [Bangumi](https://github.com/czy0729/Bangumi) ⭐ 6,021 \| 🐛 27 \| 🌐 TypeScript \| 📅 2026-10-01           | 专门做 ACG 的类豆瓣追番客户端                 |  6,018  | 2026-10-02 |
-| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) ⭐ 3,361 \| 🐛 126 \| 🌐 TypeScript \| 📅 2026-10-05     | MoonTV 增强版影视聚合播放器                 |  3,349  | 2026-09-28 |
-| [quark-auto-save](https://github.com/Cp0204/quark-auto-save) ⭐ 3,058 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-09 | 夸克网盘自动签到转存整理工具                    |  3,056  | 2026-07-09 |
-| [SeleneTV](https://github.com/MoonTechLab/Selene) ⭐ 2,561 \| 🐛 9 \| 📅 2026-05-25                         | MoonTV v100/Helios 后端客户端          |  2,557  | 2026-05-25 |
-| [WebHomeTV](https://github.com/fish2018/webhtv) ⭐ 1,648 \| 🐛 112 \| 🌐 Java \| 📅 2026-10-04              | 基于 FongMi/CatVod 二开的 Android 影音应用 |  1,632  | 2026-10-04 |
-| [WebHomeTV2](https://github.com/Silent1566/webhtv) ⭐ 664 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-06               | 基于 WebHomeTV 二开，支持 TMDB 海报        |   656   | 2026-10-05 |
+| [iptv](https://github.com/iptv-org/iptv) ⭐ 140,412 \| 🐛 73 \| 🌐 TypeScript \| 📅 2026-10-06              | 全球公开 IPTV 频道集合                    | 140,331 | 2026-10-05 |
+| [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 31,237 \| 🐛 548 \| 🌐 Dart \| 📅 2026-10-06                | 免费无广告的番剧采集与在线观看                   |  30,865 | 2026-10-04 |
+| [iptv-api](https://github.com/Guovin/iptv-api) ⭐ 25,427 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-28              | IPTV 直播源自动采集筛选更新平台                |  25,407 | 2026-09-28 |
+| [Animeko](https://github.com/open-ani/animeko) ⭐ 20,566 \| 🐛 551 \| 🌐 Kotlin \| 📅 2026-10-06            | 一站式弹幕追番平台                         |  20,461 | 2026-10-05 |
+| [pansou](https://github.com/fish2018/pansou) ⭐ 14,811 \| 🐛 8 \| 🌐 Go \| 📅 2026-09-27                    | 高性能网盘资源搜索 API 服务                  |  14,786 | 2026-09-27 |
+| [FongMi TV](https://github.com/FongMi/TV) ⭐ 9,714 \| 🐛 4 \| 🌐 Java \| 📅 2026-09-28                      | 基于 CatVod 的开源 Android 影音应用        |  9,676  | 2026-09-28 |
+| [CloudSaver](https://github.com/jiangrui1994/CloudSaver) ⭐ 9,359 \| 🐛 49 \| 🌐 Vue \| 📅 2026-04-20       | 网盘资源搜索与转存工具                       |  9,351  | 2026-04-20 |
+| [zyfun](https://github.com/Hiram-Wong/zyfun) ⭐ 8,979 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-06-25            | 跨平台桌面端视频资源播放器                     |  8,971  | 2026-06-25 |
+| [Bangumi](https://github.com/czy0729/Bangumi) ⭐ 6,022 \| 🐛 27 \| 🌐 TypeScript \| 📅 2026-10-01           | 专门做 ACG 的类豆瓣追番客户端                 |  6,018  | 2026-10-02 |
+| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) ⭐ 3,363 \| 🐛 126 \| 🌐 TypeScript \| 📅 2026-10-05     | MoonTV 增强版影视聚合播放器                 |  3,349  | 2026-09-28 |
+| [quark-auto-save](https://github.com/Cp0204/quark-auto-save) ⭐ 3,060 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-09 | 夸克网盘自动签到转存整理工具                    |  3,056  | 2026-07-09 |
+| [SeleneTV](https://github.com/MoonTechLab/Selene) ⭐ 2,564 \| 🐛 9 \| 📅 2026-05-25                         | MoonTV v100/Helios 后端客户端          |  2,557  | 2026-05-25 |
+| [WebHomeTV](https://github.com/fish2018/webhtv) ⭐ 1,651 \| 🐛 112 \| 🌐 Java \| 📅 2026-10-04              | 基于 FongMi/CatVod 二开的 Android 影音应用 |  1,632  | 2026-10-04 |
+| [WebHomeTV2](https://github.com/Silent1566/webhtv) ⭐ 666 \| 🐛 0 \| 🌐 Java \| 📅 2026-10-06               | 基于 WebHomeTV 二开，支持 TMDB 海报        |   656   | 2026-10-05 |
 | [sky-tv](https://github.com/sky22333/sky-tv) ⭐ 118 \| 🐛 1 \| 🌐 Dart \| 📅 2026-10-03                     | 现代化跨平台视频播放器空壳应用                   |   119   | 2026-10-03 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
