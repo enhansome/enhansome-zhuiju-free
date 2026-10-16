@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "IPTV-org",
-              "description": "社区维护的公开 IPTV 频道集合 🌟⁠🌟⁠🌟⁠🌟 🟢⁠可⁠访问 2026‑10‑15",
+              "description": "社区维护的公开 IPTV 频道集合 🌟⁠🌟⁠🌟⁠🌟 🟢⁠可⁠访问 2026‑10‑17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 157616880,
                 "language": "TypeScript",
                 "license": "Unlicense",
-                "last_commit": "2026-10-15T09:46:07Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-16T00:16:00Z",
+                "open_issues": 111,
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 141008,
+                "stars": 141105,
                 "topics": [
                   "iptv",
                   "m3u",
@@ -51,11 +51,11 @@
                 "id": 157616880,
                 "language": "TypeScript",
                 "license": "Unlicense",
-                "last_commit": "2026-10-15T09:46:07Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-16T00:16:00Z",
+                "open_issues": 111,
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 141008,
+                "stars": 141105,
                 "topics": [
                   "iptv",
                   "m3u",
@@ -79,10 +79,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-14T12:49:24Z",
-                "open_issues": 586,
+                "open_issues": 592,
                 "owner": "Predidit",
                 "repo": "Kazumi",
-                "stars": 36950,
+                "stars": 37328,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -112,7 +112,7 @@
                 "open_issues": 0,
                 "owner": "Guovin",
                 "repo": "iptv-api",
-                "stars": 25586,
+                "stars": 25600,
                 "topics": [
                   "auto-update",
                   "awesome",
@@ -150,11 +150,11 @@
                 "id": 519845229,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-15T18:46:32Z",
-                "open_issues": 552,
+                "last_commit": "2026-10-16T19:45:40Z",
+                "open_issues": 550,
                 "owner": "open-ani",
                 "repo": "animeko",
-                "stars": 20949,
+                "stars": 20974,
                 "topics": [
                   "android",
                   "ani",
@@ -192,10 +192,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-12T06:00:52Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "fish2018",
                 "repo": "pansou",
-                "stars": 14927,
+                "stars": 14933,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -216,7 +216,7 @@
                 "open_issues": 1,
                 "owner": "FongMi",
                 "repo": "TV",
-                "stars": 9876,
+                "stars": 9895,
                 "topics": [
                   "ffmpeg",
                   "media3",
@@ -241,7 +241,7 @@
                 "open_issues": 49,
                 "owner": "jiangrui1994",
                 "repo": "CloudSaver",
-                "stars": 9370,
+                "stars": 9374,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -262,7 +262,7 @@
                 "open_issues": 32,
                 "owner": "Hiram-Wong",
                 "repo": "zyfun",
-                "stars": 9032,
+                "stars": 9038,
                 "topics": [
                   "electron",
                   "tdesign",
@@ -285,11 +285,11 @@
                 "id": 185632238,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T10:46:56Z",
+                "last_commit": "2026-10-16T09:55:56Z",
                 "open_issues": 28,
                 "owner": "czy0729",
                 "repo": "Bangumi",
-                "stars": 6102,
+                "stars": 6105,
                 "topics": [
                   "android",
                   "android-app",
@@ -322,7 +322,7 @@
                 "open_issues": 126,
                 "owner": "mtvpls",
                 "repo": "MoonTVPlus",
-                "stars": 3473,
+                "stars": 3484,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -343,7 +343,7 @@
                 "open_issues": 9,
                 "owner": "Cp0204",
                 "repo": "quark-auto-save",
-                "stars": 3065,
+                "stars": 3066,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -364,7 +364,7 @@
                 "open_issues": 9,
                 "owner": "MoonTechLab",
                 "repo": "Selene",
-                "stars": 2585,
+                "stars": 2588,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -385,7 +385,7 @@
                 "open_issues": 114,
                 "owner": "webhtv",
                 "repo": "webhtv",
-                "stars": 1728,
+                "stars": 1732,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -402,11 +402,11 @@
                 "id": 1246496175,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T16:18:45Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-16T16:55:03Z",
+                "open_issues": 2,
                 "owner": "Silent1566",
                 "repo": "webhtv",
-                "stars": 691,
+                "stars": 692,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:48.262Z"
@@ -427,7 +427,7 @@
                 "open_issues": 0,
                 "owner": "sky22333",
                 "repo": "sky-tv",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "iptv",
                   "iptv-player",
@@ -463,11 +463,11 @@
             "id": 1260652867,
             "language": "JavaScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-15T01:26:03Z",
+            "last_commit": "2026-10-16T18:53:15Z",
             "open_issues": 14,
             "owner": "laoma528",
             "repo": "awesome-zhuiju-free",
-            "stars": 12302,
+            "stars": 12382,
             "topics": [
               "awesome-list",
               "bt-search",
@@ -501,11 +501,11 @@
             "id": 1260652867,
             "language": "JavaScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-15T01:26:03Z",
+            "last_commit": "2026-10-16T18:53:15Z",
             "open_issues": 14,
             "owner": "laoma528",
             "repo": "awesome-zhuiju-free",
-            "stars": 12302,
+            "stars": 12382,
             "topics": [
               "awesome-list",
               "bt-search",
@@ -539,11 +539,11 @@
             "id": 1260652867,
             "language": "JavaScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-15T01:26:03Z",
+            "last_commit": "2026-10-16T18:53:15Z",
             "open_issues": 14,
             "owner": "laoma528",
             "repo": "awesome-zhuiju-free",
-            "stars": 12302,
+            "stars": 12382,
             "topics": [
               "awesome-list",
               "bt-search",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:32:46.565Z",
+    "last_updated": "2026-10-16T20:05:46.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
@@ -578,11 +578,11 @@
       "id": 1260652867,
       "language": "JavaScript",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-15T01:26:03Z",
+      "last_commit": "2026-10-16T18:53:15Z",
       "open_issues": 14,
       "owner": "laoma528",
       "repo": "awesome-zhuiju-free",
-      "stars": 12302,
+      "stars": 12382,
       "topics": [
         "awesome-list",
         "bt-search",
@@ -602,7 +602,7 @@
         "tvbox-config"
       ]
     },
-    "original_repository_sha": "d1049a3af73c068c390decc92eebe9bff84d52a0",
+    "original_repository_sha": "fffd330911c14fe66ffa56acc4152793174eec1a",
     "enhanced_repository": "enhansome/enhansome-zhuiju-free",
     "enhanced_repository_description": null,
     "title": "Awesome Zhuiju Free with stars"
