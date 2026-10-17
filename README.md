@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-119_个资源-00A98F?style=flat-square" alt="已收录 119 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-124_个资源-00A98F?style=flat-square" alt="已收录 124 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--17-00B4D8?style=flat-square" alt="检测时间 2026-10-17" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -43,7 +43,7 @@
   <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma528%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
 </p>
 
-**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16**
+**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17**
 
 觉得有用？点个 ⭐ Star 支持一下，帮助更多追剧党发现这里。
 
@@ -78,8 +78,8 @@
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-7-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
-  <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
-  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-2-E91E63?style=flat-square" alt="直播源"></a>
+  <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-17-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
+  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-3-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-15-181717?style=flat-square" alt="开源项目"></a>
 </p>
@@ -91,7 +91,7 @@
 
 状态只判断主页是否响应，不替代完整体验评价。完整检测结果见 [`reports/availability.json`](reports/availability.json)。
 
-检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16 页面手动触发。
+检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17 页面手动触发。
 
 </details>
 
@@ -120,7 +120,7 @@
 | [好好看](https://www.hhkan2.com/)     | 4K高清Netflix新剧（可访问需梯子）                                      | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |         <!-- availability:haohaokan -->🔴⁠无法⁠访问<!-- /availability:haohaokan -->         |         <!-- availability-date:haohaokan -->2026‑10‑17<!-- /availability-date:haohaokan -->         |
 | [蛋蛋魔法](https://ddmf.net)           | 国内外热播剧，有福利伦理片（需梯子）                                         | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |              <!-- availability:ddmf -->🟡⁠访问⁠受限<!-- /availability:ddmf -->              |              <!-- availability-date:ddmf -->2026‑10‑17<!-- /availability-date:ddmf -->              |
 | [青空次元](https://www.sorani.net)     | 网友称最夯动漫在线站                                                 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |             <!-- availability:sorani -->🟢⁠可⁠访问<!-- /availability:sorani -->            |            <!-- availability-date:sorani -->2026‑10‑17<!-- /availability-date:sorani -->            |
-| [APP影院](https://www.appmovie.art)  | 国内外热播剧，纯净无广告                                               | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |          <!-- availability:appmovie -->🟡⁠访问⁠受限<!-- /availability:appmovie -->          |          <!-- availability-date:appmovie -->2026‑10‑17<!-- /availability-date:appmovie -->          |
+| [APP影院](https://www.appmovie.art)  | 国内外热播剧，纯净无广告                                               | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |           <!-- availability:appmovie -->🟢⁠可⁠访问<!-- /availability:appmovie -->          |          <!-- availability-date:appmovie -->2026‑10‑17<!-- /availability-date:appmovie -->          |
 | [Auete影视](https://www.aeete.com)   | 蓝光超清精品影视，发布页auete.pro                                      | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |        <!-- availability:auete-video -->🟢⁠可⁠访问<!-- /availability:auete-video -->       |       <!-- availability-date:auete-video -->2026‑10‑17<!-- /availability-date:auete-video -->       |
 | [电影人生](https://dyrs.tv)            | 高清电影在线观看                                                   | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |               <!-- availability:dyrs -->🟢⁠可⁠访问<!-- /availability:dyrs -->              |              <!-- availability-date:dyrs -->2026‑10‑17<!-- /availability-date:dyrs -->              |
 | [奈飞工厂](https://www.netflixgc.com)  | 最新美剧，无广告（需梯子）                                              | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |         <!-- availability:netflixgc -->🟡⁠访问⁠受限<!-- /availability:netflixgc -->         |         <!-- availability-date:netflixgc -->2026‑10‑17<!-- /availability-date:netflixgc -->         |
@@ -161,14 +161,14 @@
   </thead>
   <tbody>
     <tr>
-      <td nowrap><a href="https://b.zhuiju.me/archives/23/" target="_blank" rel="noopener noreferrer">iOS影视APP</a></td>
+      <td nowrap><a href="https://b.zhuiju.me/p/23" target="_blank" rel="noopener noreferrer">iOS影视APP</a></td>
       <td>各类可用APP合集</td>
       <td align="center">iOS</td>
       <td align="center" nowrap><!-- availability:ios-yingshi-app -->🟢&#8288;可&#8288;访问<!-- /availability:ios-yingshi-app --></td>
       <td align="center" nowrap><!-- availability-date:ios-yingshi-app -->2026&#8209;10&#8209;17<!-- /availability-date:ios-yingshi-app --></td>
     </tr>
     <tr>
-      <td nowrap><a href="https://b.zhuiju.me/archives/4/" target="_blank" rel="noopener noreferrer">SeleneTV</a></td>
+      <td nowrap><a href="https://b.zhuiju.me/p/4" target="_blank" rel="noopener noreferrer">SeleneTV</a></td>
       <td>跨平台 MoonTV 客户端</td>
       <td align="center">Android / iOS / macOS / Windows</td>
       <td align="center" nowrap><!-- availability:selenetv-app -->🟢&#8288;可&#8288;访问<!-- /availability:selenetv-app --></td>
@@ -239,54 +239,59 @@
 
 ### TVBox/影视仓空壳
 
-| 资源                                             | 简介                            |      推荐指数      |                                                状态                                                |                                                      检测时间                                                     |
-| ---------------------------------------------- | ----------------------------- | :------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| [影视仓](https://b.zhuiju.me/archives/15/)        | 基于 TVBox 二次开发，魔改里知名度最高        | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |     <!-- availability:yingshicang-player -->🟢⁠可⁠访问<!-- /availability:yingshicang-player -->     |     <!-- availability-date:yingshicang-player -->2026‑10‑17<!-- /availability-date:yingshicang-player -->     |
-| [FongMi 蜂蜜](https://b.zhuiju.me/archives/16/)  | 基于 CatVod 二开 ，支持Android TV和手机 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |          <!-- availability:fongmi-fengmi -->🟢⁠可⁠访问<!-- /availability:fongmi-fengmi -->          |          <!-- availability-date:fongmi-fengmi -->2026‑10‑17<!-- /availability-date:fongmi-fengmi -->          |
-| [OK影视](https://b.zhuiju.me/archives/17/)       | OK影视版 = FongMi蜂蜜版 + 各种新功能     | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |      <!-- availability:ok-yingshi-player -->🟢⁠可⁠访问<!-- /availability:ok-yingshi-player -->      |      <!-- availability-date:ok-yingshi-player -->2026‑10‑17<!-- /availability-date:ok-yingshi-player -->      |
-| [WebHomeTV](https://b.zhuiju.me/archives/18/)  | 基于 FongMi / CatVod 二次开发，增强8项  | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |       <!-- availability:webhometv-player -->🟢⁠可⁠访问<!-- /availability:webhometv-player -->       |       <!-- availability-date:webhometv-player -->2026‑10‑17<!-- /availability-date:webhometv-player -->       |
-| [羊壳 PeekPro](https://b.zhuiju.me/archives/19/) | 基于 FongMi 二开，优化主题、弹幕等         | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |         <!-- availability:yangke-peekpro -->🟢⁠可⁠访问<!-- /availability:yangke-peekpro -->         |         <!-- availability-date:yangke-peekpro -->2026‑10‑17<!-- /availability-date:yangke-peekpro -->         |
-| [Kodi](https://kodi.tv/)                       | 开源、跨平台家庭媒体中心                  | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                   <!-- availability:kodi -->🟡⁠访问⁠受限<!-- /availability:kodi -->                  |                   <!-- availability-date:kodi -->2026‑10‑17<!-- /availability-date:kodi -->                   |
-| [FongMi 影视](https://tv.xn--yhqu5zs87a.top/)    | tvbox二开/带视频源，手机端/平板端已测试       |   🌟⁠🌟⁠🌟⁠🌟  | <!-- availability:tv-xn-yhqu5zs87a-top-3 -->🟢⁠可⁠访问<!-- /availability:tv-xn-yhqu5zs87a-top-3 --> | <!-- availability-date:tv-xn-yhqu5zs87a-top-3 -->2026‑10‑17<!-- /availability-date:tv-xn-yhqu5zs87a-top-3 --> |
+| 资源                                          | 简介                            |      推荐指数      |                                                状态                                                |                                                      检测时间                                                     |
+| ------------------------------------------- | ----------------------------- | :------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [影视仓](https://b.zhuiju.me/p/15)             | 基于 TVBox 二次开发，魔改里知名度最高        | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |     <!-- availability:yingshicang-player -->🟢⁠可⁠访问<!-- /availability:yingshicang-player -->     |     <!-- availability-date:yingshicang-player -->2026‑10‑17<!-- /availability-date:yingshicang-player -->     |
+| [FongMi 蜂蜜](https://b.zhuiju.me/p/16)       | 基于 CatVod 二开 ，支持Android TV和手机 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |          <!-- availability:fongmi-fengmi -->🟢⁠可⁠访问<!-- /availability:fongmi-fengmi -->          |          <!-- availability-date:fongmi-fengmi -->2026‑10‑17<!-- /availability-date:fongmi-fengmi -->          |
+| [OK影视](https://b.zhuiju.me/p/17)            | OK影视版 = FongMi蜂蜜版 + 各种新功能     | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |      <!-- availability:ok-yingshi-player -->🟢⁠可⁠访问<!-- /availability:ok-yingshi-player -->      |      <!-- availability-date:ok-yingshi-player -->2026‑10‑17<!-- /availability-date:ok-yingshi-player -->      |
+| [WebHomeTV](https://b.zhuiju.me/p/18)       | 基于 FongMi / CatVod 二次开发，增强8项  | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |       <!-- availability:webhometv-player -->🟢⁠可⁠访问<!-- /availability:webhometv-player -->       |       <!-- availability-date:webhometv-player -->2026‑10‑17<!-- /availability-date:webhometv-player -->       |
+| [羊壳 PeekPro](https://b.zhuiju.me/p/19)      | 基于 FongMi 二开，优化主题、弹幕等         | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |         <!-- availability:yangke-peekpro -->🟢⁠可⁠访问<!-- /availability:yangke-peekpro -->         |         <!-- availability-date:yangke-peekpro -->2026‑10‑17<!-- /availability-date:yangke-peekpro -->         |
+| [Kodi](https://kodi.tv/)                    | 开源、跨平台家庭媒体中心                  | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                   <!-- availability:kodi -->🟡⁠访问⁠受限<!-- /availability:kodi -->                  |                   <!-- availability-date:kodi -->2026‑10‑17<!-- /availability-date:kodi -->                   |
+| [FongMi 影视](https://tv.xn--yhqu5zs87a.top/) | tvbox二开/带视频源，手机端/平板端已测试       |   🌟⁠🌟⁠🌟⁠🌟  | <!-- availability:tv-xn-yhqu5zs87a-top-3 -->🟢⁠可⁠访问<!-- /availability:tv-xn-yhqu5zs87a-top-3 --> | <!-- availability-date:tv-xn-yhqu5zs87a-top-3 -->2026‑10‑17<!-- /availability-date:tv-xn-yhqu5zs87a-top-3 --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
 ### TVBox/影视仓配置地址
 
-> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/archives/5/)
+> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/p/5)
 
-| 资源                            | 地址                                      |      推荐指数      |                                                     状态                                                     |                                                           检测时间                                                          |
-| ----------------------------- | --------------------------------------- | :------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| [饭太硬](https://www.饭太硬.cc)     | `http://www.饭太硬.net/tv`                 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                <!-- availability:fan-tai-ying -->🟢⁠可⁠访问<!-- /availability:fan-tai-ying -->                |                <!-- availability-date:fan-tai-ying -->2026‑10‑17<!-- /availability-date:fan-tai-ying -->                |
-| [摸鱼儿](https://www.y456y.com)  | `http://www.y456y.com`                  | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                    <!-- availability:mo-yu-er -->🟢⁠可⁠访问<!-- /availability:mo-yu-er -->                    |                    <!-- availability-date:mo-yu-er -->2026‑10‑17<!-- /availability-date:mo-yu-er -->                    |
-| [王二小](https://www.王二小放牛娃.top) | `http://new.王二小放牛娃.top`                 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                <!-- availability:wang-er-xiao -->🟢⁠可⁠访问<!-- /availability:wang-er-xiao -->                |                <!-- availability-date:wang-er-xiao -->2026‑10‑17<!-- /availability-date:wang-er-xiao -->                |
-| 肥猫                            | `http://肥猫.net/`                        | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                     <!-- availability:fei-mao -->🟢⁠可⁠访问<!-- /availability:fei-mao -->                     |                     <!-- availability-date:fei-mao -->2026‑10‑17<!-- /availability-date:fei-mao -->                     |
-| 小盒子4K                         | `http://xhztv.top/4k.json`              | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |               <!-- availability:xiao-he-zi-4k -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi-4k -->               |               <!-- availability-date:xiao-he-zi-4k -->2026‑10‑17<!-- /availability-date:xiao-he-zi-4k -->               |
-| 创享影视                          | `https://ys.cxkjg.cn/api/provide/tvbox` | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 | <!-- availability:chuang-xiang-ying-shi-tvbox -->🟢⁠可⁠访问<!-- /availability:chuang-xiang-ying-shi-tvbox --> | <!-- availability-date:chuang-xiang-ying-shi-tvbox -->2026‑10‑17<!-- /availability-date:chuang-xiang-ying-shi-tvbox --> |
-| 老刘备                           | `https://raw.liucn.cc/box/m.json`       |   🌟⁠🌟⁠🌟⁠🌟  |                 <!-- availability:lao-liu-bei -->🟢⁠可⁠访问<!-- /availability:lao-liu-bei -->                 |                 <!-- availability-date:lao-liu-bei -->2026‑10‑17<!-- /availability-date:lao-liu-bei -->                 |
-| 小马                            | `https://szyyds.cn/tv/x.json`           |   🌟⁠🌟⁠🌟⁠🌟  |                     <!-- availability:xiao-ma -->🟢⁠可⁠访问<!-- /availability:xiao-ma -->                     |                     <!-- availability-date:xiao-ma -->2026‑10‑17<!-- /availability-date:xiao-ma -->                     |
-| 小盒子单仓                         | `http://xhztv.top/xhz`                  |   🌟⁠🌟⁠🌟⁠🌟  |           <!-- availability:xiao-he-zi-single -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi-single -->           |           <!-- availability-date:xiao-he-zi-single -->2026‑10‑17<!-- /availability-date:xiao-he-zi-single -->           |
-| 嗷呜                            | `http://itv666.cc/aowu/config.webp`     |   🌟⁠🌟⁠🌟⁠🌟  |                       <!-- availability:ao-wu -->🟡⁠访问⁠受限<!-- /availability:ao-wu -->                      |                       <!-- availability-date:ao-wu -->2026‑10‑17<!-- /availability-date:ao-wu -->                       |
-| 无名                            | `https://6800.kstore.vip/fish.json`     |   🌟⁠🌟⁠🌟⁠🌟  |                     <!-- availability:wu-ming -->🟡⁠访问⁠受限<!-- /availability:wu-ming -->                    |                     <!-- availability-date:wu-ming -->2026‑10‑17<!-- /availability-date:wu-ming -->                     |
-| 小盒子多仓                         | `http://xhztv.top/dc`                   | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |            <!-- availability:xiao-he-zi-multi -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi-multi -->            |            <!-- availability-date:xiao-he-zi-multi -->2026‑10‑17<!-- /availability-date:xiao-he-zi-multi -->            |
-| 拾光多仓                          | `http://xmbjm.fh4u.org/dc.txt`          | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |             <!-- availability:shi-guang-multi -->🟢⁠可⁠访问<!-- /availability:shi-guang-multi -->             |             <!-- availability-date:shi-guang-multi -->2026‑10‑17<!-- /availability-date:shi-guang-multi -->             |
-| 挺好分享多仓                        | `http://ztha.top/TVBox/GYCK.json`       | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |        <!-- availability:ting-hao-share-multi -->🟢⁠可⁠访问<!-- /availability:ting-hao-share-multi -->        |        <!-- availability-date:ting-hao-share-multi -->2026‑10‑17<!-- /availability-date:ting-hao-share-multi -->        |
-| [小盒子](https://www.xhztv.pro/) | 专业 TV 工具箱，免费好用                          |   🌟⁠🌟⁠🌟⁠🌟  |                  <!-- availability:xiao-he-zi -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi -->                  |                  <!-- availability-date:xiao-he-zi -->2026‑10‑17<!-- /availability-date:xiao-he-zi -->                  |
+| 资源                            | 地址                                         |      推荐指数      |                                                     状态                                                     |                                                           检测时间                                                          |
+| ----------------------------- | ------------------------------------------ | :------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| [饭太硬](https://www.饭太硬.cc)     | `http://www.饭太硬.net/tv`                    | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                <!-- availability:fan-tai-ying -->🟢⁠可⁠访问<!-- /availability:fan-tai-ying -->                |                <!-- availability-date:fan-tai-ying -->2026‑10‑17<!-- /availability-date:fan-tai-ying -->                |
+| [摸鱼儿](https://www.y456y.com)  | `http://www.y456y.com`                     | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                    <!-- availability:mo-yu-er -->🟢⁠可⁠访问<!-- /availability:mo-yu-er -->                    |                    <!-- availability-date:mo-yu-er -->2026‑10‑17<!-- /availability-date:mo-yu-er -->                    |
+| [王二小](https://www.王二小放牛娃.top) | `http://new.王二小放牛娃.top`                    | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                <!-- availability:wang-er-xiao -->🟢⁠可⁠访问<!-- /availability:wang-er-xiao -->                |                <!-- availability-date:wang-er-xiao -->2026‑10‑17<!-- /availability-date:wang-er-xiao -->                |
+| [影仓](https://124.71.19.220/)  | `http://124.71.19.220/c/1`                 |   🌟⁠🌟⁠🌟⁠🌟  |             <!-- availability:ying-cang-tvbox -->🟢⁠可⁠访问<!-- /availability:ying-cang-tvbox -->             |             <!-- availability-date:ying-cang-tvbox -->2026‑10‑17<!-- /availability-date:ying-cang-tvbox -->             |
+| 肥猫                            | `http://肥猫.net/`                           | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |                     <!-- availability:fei-mao -->🟢⁠可⁠访问<!-- /availability:fei-mao -->                     |                     <!-- availability-date:fei-mao -->2026‑10‑17<!-- /availability-date:fei-mao -->                     |
+| 小盒子4K                         | `http://xhztv.top/4k.json`                 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |               <!-- availability:xiao-he-zi-4k -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi-4k -->               |               <!-- availability-date:xiao-he-zi-4k -->2026‑10‑17<!-- /availability-date:xiao-he-zi-4k -->               |
+| 创享影视                          | `https://ys.cxkjg.cn/api/provide/tvbox`    | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 | <!-- availability:chuang-xiang-ying-shi-tvbox -->🟢⁠可⁠访问<!-- /availability:chuang-xiang-ying-shi-tvbox --> | <!-- availability-date:chuang-xiang-ying-shi-tvbox -->2026‑10‑17<!-- /availability-date:chuang-xiang-ying-shi-tvbox --> |
+| 老刘备                           | `https://raw.liucn.cc/box/m.json`          |   🌟⁠🌟⁠🌟⁠🌟  |                 <!-- availability:lao-liu-bei -->🟢⁠可⁠访问<!-- /availability:lao-liu-bei -->                 |                 <!-- availability-date:lao-liu-bei -->2026‑10‑17<!-- /availability-date:lao-liu-bei -->                 |
+| 小马                            | `https://szyyds.cn/tv/x.json`              |   🌟⁠🌟⁠🌟⁠🌟  |                     <!-- availability:xiao-ma -->🟢⁠可⁠访问<!-- /availability:xiao-ma -->                     |                     <!-- availability-date:xiao-ma -->2026‑10‑17<!-- /availability-date:xiao-ma -->                     |
+| 小盒子单仓                         | `http://xhztv.top/xhz`                     |   🌟⁠🌟⁠🌟⁠🌟  |           <!-- availability:xiao-he-zi-single -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi-single -->           |           <!-- availability-date:xiao-he-zi-single -->2026‑10‑17<!-- /availability-date:xiao-he-zi-single -->           |
+| 伦理接口                          | `http://47.96.82.41:5188/rose/18/xgg.json` |   🌟⁠🌟⁠🌟⁠🌟  |                <!-- availability:lun-li-tvbox -->🟢⁠可⁠访问<!-- /availability:lun-li-tvbox -->                |                <!-- availability-date:lun-li-tvbox -->2026‑10‑17<!-- /availability-date:lun-li-tvbox -->                |
+| 嗷呜                            | `http://itv666.cc/aowu/config.webp`        |   🌟⁠🌟⁠🌟⁠🌟  |                       <!-- availability:ao-wu -->🟢⁠可⁠访问<!-- /availability:ao-wu -->                       |                       <!-- availability-date:ao-wu -->2026‑10‑17<!-- /availability-date:ao-wu -->                       |
+| 无名                            | `https://6800.kstore.vip/fish.json`        |   🌟⁠🌟⁠🌟⁠🌟  |                     <!-- availability:wu-ming -->🟡⁠访问⁠受限<!-- /availability:wu-ming -->                    |                     <!-- availability-date:wu-ming -->2026‑10‑17<!-- /availability-date:wu-ming -->                     |
+| 小盒子多仓                         | `http://xhztv.top/dc`                      | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |            <!-- availability:xiao-he-zi-multi -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi-multi -->            |            <!-- availability-date:xiao-he-zi-multi -->2026‑10‑17<!-- /availability-date:xiao-he-zi-multi -->            |
+| 拾光多仓                          | `http://xmbjm.fh4u.org/dc.txt`             | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |             <!-- availability:shi-guang-multi -->🟢⁠可⁠访问<!-- /availability:shi-guang-multi -->             |             <!-- availability-date:shi-guang-multi -->2026‑10‑17<!-- /availability-date:shi-guang-multi -->             |
+| 挺好分享多仓                        | `http://ztha.top/TVBox/GYCK.json`          | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |        <!-- availability:ting-hao-share-multi -->🟢⁠可⁠访问<!-- /availability:ting-hao-share-multi -->        |        <!-- availability-date:ting-hao-share-multi -->2026‑10‑17<!-- /availability-date:ting-hao-share-multi -->        |
+| [小盒子](https://www.xhztv.pro/) | 专业 TV 工具箱，免费好用                             |   🌟⁠🌟⁠🌟⁠🌟  |                  <!-- availability:xiao-he-zi -->🟢⁠可⁠访问<!-- /availability:xiao-he-zi -->                  |                  <!-- availability-date:xiao-he-zi -->2026‑10‑17<!-- /availability-date:xiao-he-zi -->                  |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
 ### 直播源
 
-| 资源                                                                                                 | 简介                                                    |      推荐指数      |                                               状态                                              |                                                    检测时间                                                   |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | :------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-| [IPTV神器Pro](https://iptv.cqshushu.com/)                                                            | 免费IPTV直播源（[@goodsand](https://github.com/goodsand)贡献） | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 | <!-- availability:iptv-cqshushu-com-31 -->🔴⁠无法⁠访问<!-- /availability:iptv-cqshushu-com-31 --> | <!-- availability-date:iptv-cqshushu-com-31 -->2026‑10‑17<!-- /availability-date:iptv-cqshushu-com-31 --> |
-| [IPTV-org](https://github.com/iptv-org/iptv) ⭐ 141,105 \| 🐛 111 \| 🌐 TypeScript \| 📅 2026-10-16 | 社区维护的公开 IPTV 频道集合                                     |   🌟⁠🌟⁠🌟⁠🌟  |              <!-- availability:iptv-org -->🟢⁠可⁠访问<!-- /availability:iptv-org -->             |             <!-- availability-date:iptv-org -->2026‑10‑17<!-- /availability-date:iptv-org -->             |
+> 不知道直播源怎么导入？点击查看：[直播源地址与使用说明](https://b.zhuiju.me/p/26)
+
+| 资源  | 地址                                                                 |      推荐指数      |                                           状态                                           |                                                 检测时间                                                |
+| --- | ------------------------------------------------------------------ | :------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| VMA | `https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt` | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |   <!-- availability:vma-iptv-source -->🟢⁠可⁠访问<!-- /availability:vma-iptv-source -->   |   <!-- availability-date:vma-iptv-source -->2026‑10‑17<!-- /availability-date:vma-iptv-source -->   |
+| 饭太硬 | `http://www.饭太硬.cc/tv`                                             | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 | <!-- availability:fan-tai-ying-iptv -->🟢⁠可⁠访问<!-- /availability:fan-tai-ying-iptv --> | <!-- availability-date:fan-tai-ying-iptv -->2026‑10‑17<!-- /availability-date:fan-tai-ying-iptv --> |
+| 肥猫  | `http://肥猫.net/tv`                                                 | 🌟⁠🌟⁠🌟⁠🌟⁠🌟 |      <!-- availability:fei-mao-iptv -->🟢⁠可⁠访问<!-- /availability:fei-mao-iptv -->      |      <!-- availability-date:fei-mao-iptv -->2026‑10‑17<!-- /availability-date:fei-mao-iptv -->      |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
 ### 会员拼团
 
-*等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16。*
+*等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17。*
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
@@ -294,20 +299,20 @@
 
 | 资源                                                                                                         | 简介                                |  star数  |   仓库更新时间   |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------- | :-----: | :--------: |
-| [iptv](https://github.com/iptv-org/iptv) ⭐ 141,105 \| 🐛 111 \| 🌐 TypeScript \| 📅 2026-10-16             | 全球公开 IPTV 频道集合                    | 140,575 | 2026-10-12 |
-| [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 37,328 \| 🐛 592 \| 🌐 Dart \| 📅 2026-10-14                | 免费无广告的番剧采集与在线观看                   |  35,314 | 2026-10-11 |
-| [iptv-api](https://github.com/Guovin/iptv-api) ⭐ 25,600 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-14              | IPTV 直播源自动采集筛选更新平台                |  25,527 | 2026-10-12 |
-| [Animeko](https://github.com/open-ani/animeko) ⭐ 20,974 \| 🐛 550 \| 🌐 Kotlin \| 📅 2026-10-16            | 一站式弹幕追番平台                         |  20,823 | 2026-10-12 |
-| [pansou](https://github.com/fish2018/pansou) ⭐ 14,933 \| 🐛 8 \| 🌐 Go \| 📅 2026-10-12                    | 高性能网盘资源搜索 API 服务                  |  14,874 | 2026-10-08 |
-| [FongMi TV](https://github.com/FongMi/TV) ⭐ 9,895 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-11                      | 基于 CatVod 的开源 Android 影音应用        |  9,819  | 2026-10-12 |
-| [CloudSaver](https://github.com/jiangrui1994/CloudSaver) ⭐ 9,374 \| 🐛 49 \| 🌐 Vue \| 📅 2026-10-15       | 网盘资源搜索与转存工具                       |  9,367  | 2026-04-20 |
-| [zyfun](https://github.com/Hiram-Wong/zyfun) ⭐ 9,038 \| 🐛 32 \| 🌐 TypeScript \| 📅 2026-06-25            | 跨平台桌面端视频资源播放器                     |  9,003  | 2026-06-25 |
-| [Bangumi](https://github.com/czy0729/Bangumi) ⭐ 6,105 \| 🐛 28 \| 🌐 TypeScript \| 📅 2026-10-16           | 专门做 ACG 的类豆瓣追番客户端                 |  6,055  | 2026-10-11 |
-| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) ⭐ 3,484 \| 🐛 126 \| 🌐 TypeScript \| 📅 2026-10-05     | MoonTV 增强版影视聚合播放器                 |  3,421  | 2026-10-05 |
+| [iptv](https://github.com/iptv-org/iptv) ⭐ 141,204 \| 🐛 137 \| 🌐 TypeScript \| 📅 2026-10-17             | 全球公开 IPTV 频道集合                    | 140,575 | 2026-10-12 |
+| [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 37,685 \| 🐛 599 \| 🌐 Dart \| 📅 2026-10-17                | 免费无广告的番剧采集与在线观看                   |  35,314 | 2026-10-11 |
+| [iptv-api](https://github.com/Guovin/iptv-api) ⭐ 25,621 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-14              | IPTV 直播源自动采集筛选更新平台                |  25,527 | 2026-10-12 |
+| [Animeko](https://github.com/open-ani/animeko) ⭐ 21,007 \| 🐛 550 \| 🌐 Kotlin \| 📅 2026-10-17            | 一站式弹幕追番平台                         |  20,823 | 2026-10-12 |
+| [pansou](https://github.com/fish2018/pansou) ⭐ 14,945 \| 🐛 9 \| 🌐 Go \| 📅 2026-10-12                    | 高性能网盘资源搜索 API 服务                  |  14,874 | 2026-10-08 |
+| [FongMi TV](https://github.com/FongMi/TV) ⭐ 9,923 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-11                      | 基于 CatVod 的开源 Android 影音应用        |  9,819  | 2026-10-12 |
+| [CloudSaver](https://github.com/jiangrui1994/CloudSaver) ⭐ 9,379 \| 🐛 49 \| 🌐 Vue \| 📅 2026-10-15       | 网盘资源搜索与转存工具                       |  9,367  | 2026-04-20 |
+| [zyfun](https://github.com/Hiram-Wong/zyfun) ⭐ 9,042 \| 🐛 32 \| 🌐 TypeScript \| 📅 2026-06-25            | 跨平台桌面端视频资源播放器                     |  9,003  | 2026-06-25 |
+| [Bangumi](https://github.com/czy0729/Bangumi) ⭐ 6,106 \| 🐛 28 \| 🌐 TypeScript \| 📅 2026-10-16           | 专门做 ACG 的类豆瓣追番客户端                 |  6,055  | 2026-10-11 |
+| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) ⭐ 3,496 \| 🐛 125 \| 🌐 TypeScript \| 📅 2026-10-05     | MoonTV 增强版影视聚合播放器                 |  3,421  | 2026-10-05 |
 | [quark-auto-save](https://github.com/Cp0204/quark-auto-save) ⭐ 3,066 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-09 | 夸克网盘自动签到转存整理工具                    |  3,066  | 2026-07-09 |
-| [SeleneTV](https://github.com/MoonTechLab/Selene) ⭐ 2,588 \| 🐛 9 \| 📅 2026-05-25                         | MoonTV v100/Helios 后端客户端          |  2,575  | 2026-05-25 |
-| [WebHomeTV](https://github.com/fish2018/webhtv) ⭐ 1,732 \| 🐛 114 \| 🌐 Java \| 📅 2026-10-12              | 基于 FongMi/CatVod 二开的 Android 影音应用 |  1,695  | 2026-10-09 |
-| [WebHomeTV2](https://github.com/Silent1566/webhtv) ⭐ 692 \| 🐛 2 \| 🌐 Java \| 📅 2026-10-16               | 基于 WebHomeTV 二开，支持 TMDB 海报        |   685   | 2026-10-11 |
+| [SeleneTV](https://github.com/MoonTechLab/Selene) ⭐ 2,589 \| 🐛 9 \| 📅 2026-05-25                         | MoonTV v100/Helios 后端客户端          |  2,575  | 2026-05-25 |
+| [WebHomeTV](https://github.com/fish2018/webhtv) ⭐ 1,740 \| 🐛 114 \| 🌐 Java \| 📅 2026-10-12              | 基于 FongMi/CatVod 二开的 Android 影音应用 |  1,695  | 2026-10-09 |
+| [WebHomeTV2](https://github.com/Silent1566/webhtv) ⭐ 694 \| 🐛 0 \| 🌐 Java \| 📅 2026-10-17               | 基于 WebHomeTV 二开，支持 TMDB 海报        |   685   | 2026-10-11 |
 | [sky-tv](https://github.com/sky22333/sky-tv) ⭐ 129 \| 🐛 0 \| 🌐 Dart \| 📅 2026-10-03                     | 现代化跨平台视频播放器空壳应用                   |   123   | 2026-10-03 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
@@ -384,9 +389,9 @@
 
 | 我想要                | 从这里开始                                                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 推荐一个新资源            | [创建资源推荐](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,382 \| 🐛 14 \| 🌐 JavaScript \| 📅 2026-10-16               |
-| 报告失效、风险或评分变化       | [创建问题报告](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 12,382 \| 🐛 14 \| 🌐 JavaScript \| 📅 2026-10-16            |
-| 请求修改或移除收录          | [提交权利人请求](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 12,382 \| 🐛 14 \| 🌐 JavaScript \| 📅 2026-10-16 |
+| 推荐一个新资源            | [创建资源推荐](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,529 \| 🐛 15 \| 🌐 JavaScript \| 📅 2026-10-17               |
+| 报告失效、风险或评分变化       | [创建问题报告](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 12,529 \| 🐛 15 \| 🌐 JavaScript \| 📅 2026-10-17            |
+| 请求修改或移除收录          | [提交权利人请求](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 12,529 \| 🐛 15 \| 🌐 JavaScript \| 📅 2026-10-17 |
 | 直接维护结构化数据          | 阅读 [贡献指南](CONTRIBUTING.md) 与 [数据字段说明](resources/README.md)                                                                                                   |
 | 管理 Issue、候选资源和自动更新 | 阅读 [管理员手册](MAINTAINERS.md)                                                                                                                                   |
 
@@ -486,7 +491,7 @@
 
 本项目仅提供资源索引、体验记录与风险提示，不对第三方网站的合法性、可用性或安全性作保证。访问第三方网站前，请遵守所在地法律、内容许可和服务条款，并自行判断风险。
 
-如果你是权利人，认为某条收录不当，请通过 [权利人请求模板](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16 联系。项目会公开记录请求与处理结果，但不会公开不必要的个人信息。
+如果你是权利人，认为某条收录不当，请通过 [权利人请求模板](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17 联系。项目会公开记录请求与处理结果，但不会公开不必要的个人信息。
 
 ## 开源协议
 
@@ -516,7 +521,7 @@
 
 如果这个项目对你有帮助，欢迎给我们一个 ⭐ Star！
 
-**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 12,382 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-16**
+**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 12,529 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17**
 
 Built with ❤️ by [laoma528](https://github.com/laoma528)
 
@@ -524,4 +529,4 @@ Built with ❤️ by [laoma528](https://github.com/laoma528)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
