@@ -43,7 +43,7 @@
   <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma528%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
 </p>
 
-**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25**
+**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25**
 
 觉得有用？点个 ⭐ Star 支持一下，帮助更多追剧党发现这里。
 
@@ -93,7 +93,7 @@
 
 状态只判断主页是否响应，不替代完整体验评价。完整检测结果见 [`reports/availability.json`](reports/availability.json)。
 
-检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25 页面手动触发。
+检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25 页面手动触发。
 
 </details>
 
@@ -301,7 +301,7 @@
 
 ### 会员拼团
 
-*等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25。*
+*等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25。*
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
@@ -309,22 +309,22 @@
 
 | 资源                                                                                                          | 简介                                |  star数  |   仓库更新时间   |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------- | :-----: | :--------: |
-| [iptv](https://github.com/iptv-org/iptv) ⭐ 144,661 \| 🐛 205 \| 🌐 TypeScript \| 📅 2026-11-25              | 全球公开 IPTV 频道集合                    | 144,532 | 2026-11-23 |
-| [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 43,954 \| 🐛 695 \| 🌐 Dart \| 📅 2026-11-24                 | 免费无广告的番剧采集与在线观看                   |  43,648 | 2026-11-22 |
-| [iptv-api](https://github.com/Guovin/iptv-api) ⭐ 26,286 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-14               | IPTV 直播源自动采集筛选更新平台                |  26,254 | 2026-10-14 |
-| [Animeko](https://github.com/open-ani/animeko) ⭐ 22,063 \| 🐛 594 \| 🌐 Kotlin \| 📅 2026-11-23             | 一站式弹幕追番平台                         |  22,011 | 2026-11-22 |
-| [pansou](https://github.com/fish2018/pansou) ⭐ 15,365 \| 🐛 14 \| 🌐 Go \| 📅 2026-10-12                    | 高性能网盘资源搜索 API 服务                  |  15,338 | 2026-10-12 |
-| [FongMi TV](https://github.com/FongMi/TV) ⭐ 10,781 \| 🐛 4 \| 🌐 Java \| 📅 2026-11-22                      | 基于 CatVod 的开源 Android 影音应用        |  10,732 | 2026-11-22 |
-| [CloudSaver](https://github.com/jiangrui1994/CloudSaver) ⭐ 9,479 \| 🐛 51 \| 🌐 Vue \| 📅 2026-11-21        | 网盘资源搜索与转存工具                       |  9,475  | 2026-11-21 |
-| [zyfun](https://github.com/Hiram-Wong/zyfun) ⭐ 9,199 \| 🐛 31 \| 🌐 TypeScript \| 📅 2026-06-25             | 跨平台桌面端视频资源播放器                     |  9,181  | 2026-06-25 |
-| [Bangumi](https://github.com/czy0729/Bangumi) ⭐ 6,275 \| 🐛 26 \| 🌐 TypeScript \| 📅 2026-11-23            | 专门做 ACG 的类豆瓣追番客户端                 |  6,272  | 2026-11-23 |
-| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) ⭐ 3,785 \| 🐛 130 \| 🌐 TypeScript \| 📅 2026-11-22      | MoonTV 增强版影视聚合播放器                 |  3,772  | 2026-11-22 |
-| [quark-auto-save](https://github.com/Cp0204/quark-auto-save) ⭐ 3,128 \| 🐛 13 \| 🌐 Python \| 📅 2026-07-09 | 夸克网盘自动签到转存整理工具                    |  3,122  | 2026-07-09 |
-| [SeleneTV](https://github.com/MoonTechLab/Selene) ⭐ 2,656 \| 🐛 9 \| 📅 2026-05-25                          | MoonTV v100/Helios 后端客户端          |  2,655  | 2026-05-25 |
-| [WebHomeTV](https://github.com/fish2018/webhtv) ⭐ 1,948 \| 🐛 115 \| 🌐 Java \| 📅 2026-11-10               | 基于 FongMi/CatVod 二开的 Android 影音应用 |  1,937  | 2026-11-11 |
-| [WebHomeTV2](https://github.com/Silent1566/webhtv) ⭐ 848 \| 🐛 25 \| 🌐 Java \| 📅 2026-11-23               | 基于 WebHomeTV 二开，支持 TMDB 海报        |   837   | 2026-11-21 |
-| [nTv 直播软件](https://github.com/buhanzhe/NativeWasmTv) ⭐ 507 \| 🐛 8 \| 🌐 Java \| 📅 2026-11-25              | 横屏直播播放器                           |   502   | 2026-11-21 |
-| [修狗TV](https://github.com/qfw66/xiugou-tv) ⭐ 333 \| 🐛 13 \| 🌐 Dart \| 📅 2026-11-22                       | 兼容 TVBox 配置的 Windows 影视播放器        |   306   | 2026-11-22 |
+| [iptv](https://github.com/iptv-org/iptv) ⭐ 144,726 \| 🐛 273 \| 🌐 TypeScript \| 📅 2026-11-26              | 全球公开 IPTV 频道集合                    | 144,532 | 2026-11-23 |
+| [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 44,074 \| 🐛 694 \| 🌐 Dart \| 📅 2026-11-25                 | 免费无广告的番剧采集与在线观看                   |  43,648 | 2026-11-22 |
+| [iptv-api](https://github.com/Guovin/iptv-api) ⭐ 26,306 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-14               | IPTV 直播源自动采集筛选更新平台                |  26,254 | 2026-10-14 |
+| [Animeko](https://github.com/open-ani/animeko) ⭐ 22,088 \| 🐛 595 \| 🌐 Kotlin \| 📅 2026-11-23             | 一站式弹幕追番平台                         |  22,011 | 2026-11-22 |
+| [pansou](https://github.com/fish2018/pansou) ⭐ 15,379 \| 🐛 14 \| 🌐 Go \| 📅 2026-10-12                    | 高性能网盘资源搜索 API 服务                  |  15,338 | 2026-10-12 |
+| [FongMi TV](https://github.com/FongMi/TV) ⭐ 10,799 \| 🐛 4 \| 🌐 Java \| 📅 2026-11-25                      | 基于 CatVod 的开源 Android 影音应用        |  10,732 | 2026-11-22 |
+| [CloudSaver](https://github.com/jiangrui1994/CloudSaver) ⭐ 9,481 \| 🐛 51 \| 🌐 Vue \| 📅 2026-11-21        | 网盘资源搜索与转存工具                       |  9,475  | 2026-11-21 |
+| [zyfun](https://github.com/Hiram-Wong/zyfun) ⭐ 9,204 \| 🐛 31 \| 🌐 TypeScript \| 📅 2026-06-25             | 跨平台桌面端视频资源播放器                     |  9,181  | 2026-06-25 |
+| [Bangumi](https://github.com/czy0729/Bangumi) ⭐ 6,276 \| 🐛 26 \| 🌐 TypeScript \| 📅 2026-11-23            | 专门做 ACG 的类豆瓣追番客户端                 |  6,272  | 2026-11-23 |
+| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) ⭐ 3,788 \| 🐛 131 \| 🌐 TypeScript \| 📅 2026-11-22      | MoonTV 增强版影视聚合播放器                 |  3,772  | 2026-11-22 |
+| [quark-auto-save](https://github.com/Cp0204/quark-auto-save) ⭐ 3,129 \| 🐛 13 \| 🌐 Python \| 📅 2026-07-09 | 夸克网盘自动签到转存整理工具                    |  3,122  | 2026-07-09 |
+| [SeleneTV](https://github.com/MoonTechLab/Selene) ⭐ 2,658 \| 🐛 9 \| 📅 2026-05-25                          | MoonTV v100/Helios 后端客户端          |  2,655  | 2026-05-25 |
+| [WebHomeTV](https://github.com/fish2018/webhtv) ⭐ 1,954 \| 🐛 115 \| 🌐 Java \| 📅 2026-11-10               | 基于 FongMi/CatVod 二开的 Android 影音应用 |  1,937  | 2026-11-11 |
+| [WebHomeTV2](https://github.com/Silent1566/webhtv) ⭐ 851 \| 🐛 25 \| 🌐 Java \| 📅 2026-11-25               | 基于 WebHomeTV 二开，支持 TMDB 海报        |   837   | 2026-11-21 |
+| [nTv 直播软件](https://github.com/buhanzhe/NativeWasmTv) ⭐ 512 \| 🐛 8 \| 🌐 Java \| 📅 2026-11-25              | 横屏直播播放器                           |   502   | 2026-11-21 |
+| [修狗TV](https://github.com/qfw66/xiugou-tv) ⭐ 341 \| 🐛 11 \| 🌐 Dart \| 📅 2026-11-22                       | 兼容 TVBox 配置的 Windows 影视播放器        |   306   | 2026-11-22 |
 | [sky-tv](https://github.com/sky22333/sky-tv) ⭐ 146 \| 🐛 1 \| 🌐 Dart \| 📅 2026-10-03                      | 现代化跨平台视频播放器空壳应用                   |   144   | 2026-10-03 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
@@ -401,9 +401,9 @@
 
 | 我想要                | 从这里开始                                                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 推荐一个新资源            | [创建资源推荐](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,481 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-11-25               |
-| 报告失效、风险或评分变化       | [创建问题报告](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 16,481 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-11-25            |
-| 请求修改或移除收录          | [提交权利人请求](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 16,481 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-11-25 |
+| 推荐一个新资源            | [创建资源推荐](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,562 \| 🐛 25 \| 🌐 JavaScript \| 📅 2026-11-25               |
+| 报告失效、风险或评分变化       | [创建问题报告](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 16,562 \| 🐛 25 \| 🌐 JavaScript \| 📅 2026-11-25            |
+| 请求修改或移除收录          | [提交权利人请求](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 16,562 \| 🐛 25 \| 🌐 JavaScript \| 📅 2026-11-25 |
 | 直接维护结构化数据          | 阅读 [贡献指南](CONTRIBUTING.md) 与 [数据字段说明](resources/README.md)                                                                                                   |
 | 管理 Issue、候选资源和自动更新 | 阅读 [管理员手册](MAINTAINERS.md)                                                                                                                                   |
 
@@ -510,7 +510,7 @@
 
 本项目仅提供资源索引、体验记录与风险提示，不对第三方网站的合法性、可用性或安全性作保证。访问第三方网站前，请遵守所在地法律、内容许可和服务条款，并自行判断风险。
 
-如果你是权利人，认为某条收录不当，请通过 [权利人请求模板](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25 联系。项目会公开记录请求与处理结果，但不会公开不必要的个人信息。
+如果你是权利人，认为某条收录不当，请通过 [权利人请求模板](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25 联系。项目会公开记录请求与处理结果，但不会公开不必要的个人信息。
 
 ## 开源协议
 
@@ -541,7 +541,7 @@
 
 如果这个项目对你有帮助，欢迎给我们一个 ⭐ Star！
 
-**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 16,481 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-25**
+**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) ⭐ 16,562 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25**
 
 Built with ❤️ by [laoma528](https://github.com/laoma528)
 
@@ -549,4 +549,4 @@ Built with ❤️ by [laoma528](https://github.com/laoma528)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
